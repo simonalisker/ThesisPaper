@@ -27,6 +27,7 @@ In order explore architecture
 It is possible to run only predict function for each model as models are loaded to this repository.
 (1) saved_weights_512_1_full_chunked_roberta.pt
 (2) tf_stat_fifty_weights.h5
+The above models can be downloaded from my drive:
 
 You will need to change the code appropriately, comment train function and uncomment lines which load weights near train function.
 
