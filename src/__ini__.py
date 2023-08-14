@@ -1,1 +1,1 @@
-c = "/Users/liskers/Documents/Simona/Byte2Vec-master/"
+c = "/Users/liskers/Documents/Simona/Thesis/"
